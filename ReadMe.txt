@@ -15,7 +15,7 @@ To perform a test:
 
 
 I tested on Google Pixel 2, using 2019.3.11f Release Mono verison. Both Begin/Phase response time varied from 5ms to 18ms.
-But important thing to note, both old input and new input response time seems to be the same.
+But important thing to note, both old input and new input response time seems to be the same, and in some case new input system response time is event better.
 
 
 Note: There seems to be a bug with EnhancedTouch at the time of writing this test, the first time you'll touch the screen, seems first Begin phase is not captured by Enhanced input.
